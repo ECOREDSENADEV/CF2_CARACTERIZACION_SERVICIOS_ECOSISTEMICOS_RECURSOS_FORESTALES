@@ -1,1 +1,2 @@
-module.exports = 'Ecored Base PKG'
+module.exports =
+  'Categorización de servicios ecosistémicos relacionados con recursos forestales'
