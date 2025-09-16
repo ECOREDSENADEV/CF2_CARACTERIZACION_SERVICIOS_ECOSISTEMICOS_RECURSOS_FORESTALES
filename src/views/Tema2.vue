@@ -16,10 +16,10 @@
     p.mb-5 En Colombia, los ecosistemas de bosques representan el 7,1 % de la superficie forestal de Sudamérica, lo que equivale al 52 % del territorio nacional, con aproximadamente 60 millones de hectáreas (Departamento Nacional de Planeación, 2020). A pesar de ser un país megadiverso, enfrenta altas tasas de deforestación en ecosistemas clave como la Amazonía y el Pacífico Colombiano.
 
     .row.mb-5
-      .col-lg-6
+      .col-lg-6.mb-3.mb-lg-0
         figure(data-aos="fade-up")
           img(src='@/assets/curso/tema2/1.png', alt='Texto descriptivo 1')
-      .col-lg-6
+      .col-lg-6.mb-3.mb-lg-0
         figure(data-aos="fade-down")
           img(src='@/assets/curso/tema2/2.png', alt='Texto descriptivo 1')
     
@@ -136,13 +136,13 @@
     p.mb-5 El cambio climático es una problemática de escala global que afecta a todas las regiones del planeta. Se refiere a la alteración de las condiciones climáticas medias de una región durante periodos prolongados, generalmente evaluados con datos de más de 30 años. Es importante no confundirlo con la variabilidad climática, la cual corresponde a cambios temporales en el clima en periodos más cortos. Una diferencia clave entre ambos conceptos es la siguiente:
 
     .row.justify-content-center.mb-3
-      .col-lg-4(data-aos="fade-down")
+      .col-lg-4(data-aos="fade-down").mb-3.mb-lg-0
         figure
           img(src="@/assets/curso/tema2/18.png", alt="Imagen de acompañamiento")
         div.bg-color-14.text-center.text-white.p-4
           h5 Cambio climático
           p.mb-0 Alteración prolongada del clima promedio de una región. Se mide en escalas de varias décadas.
-      .col-lg-4(data-aos="fade-up")
+      .col-lg-4(data-aos="fade-up").mb-3.mb-lg-0
         figure
           img(src="@/assets/curso/tema2/19.png", alt="Imagen de acompañamiento")
         div.bg-color-14.text-center.text-white.p-4
@@ -172,7 +172,7 @@
         .bg-color-7.mb-5.tarjeta
           .px-4.px-md-5.py-4
             .row.align-items-center
-              .col-lg-auto
+              .col-lg-auto.mb-3.mb-lg-0
                 img(src="@/assets/curso/tema2/21.svg", style="max-width: 90px").mx-auto
               .col-lg
                 p.mb-0 El cambio climático, en combinación con otros factores ambientales y sociales, representa una amenaza creciente para la salud de los bosques y la sostenibilidad de los territorios.
@@ -189,7 +189,7 @@
         .bg-color-15.mb-5.tarjeta
           .p-4.p-md-5
             .row.justify-content-center.align-items-center
-              .col-lg-5
+              .col-lg-5.mb-3.mb-lg-0
                 figure
                   img(src="@/assets/curso/tema2/23.svg", data-aos="zoom-in")
               .col-lg-6
